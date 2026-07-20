@@ -98,19 +98,23 @@ The project uses election datasets containing:
 
 ### 🏠 Home Dashboard
 
-*(Add Screenshot Here)*
+-<img width="1082" height="606" alt="Screenshot 2026-07-20 at 2 59 29 AM" src="https://github.com/user-attachments/assets/1a7befc6-fc64-4115-9e06-8632782d4d37" />
+
 
 ### 🌍 Geographic Story
 
-*(Add Screenshot Here)*
+-<img width="1082" height="606" alt="Screenshot 2026-07-20 at 2 59 38 AM" src="https://github.com/user-attachments/assets/65720504-c513-4a13-bd37-cff0e7295623" />
+
 
 ### 🔄 Flip Story
 
-*(Add Screenshot Here)*
+-<img width="1082" height="606" alt="Screenshot 2026-07-20 at 2 59 46 AM" src="https://github.com/user-attachments/assets/82838120-f309-4e20-b1ce-93890b603227" />
+
 
 ### 📈 Margin Analysis
 
-*(Add Screenshot Here)*
+-<img width="1082" height="606" alt="Screenshot 2026-07-20 at 2 59 55 AM" src="https://github.com/user-attachments/assets/3cfafd7a-c5d4-4a12-82eb-115307adbb75" />
+
 
 ---
 
